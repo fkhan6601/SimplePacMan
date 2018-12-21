@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Bonkerus
+ *
+ */
+module SimplePacMan {
+}
